@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Mihye's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihye126&show_icons=true&theme=transparent)  
+
+![Mihye's Baekjoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=mihea12)
+![Mihye's Baekjoon](http://mazandi.herokuapp.com/api?handle=mihea12&theme=warm)
