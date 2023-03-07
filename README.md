@@ -11,7 +11,10 @@
 
 > 💡 **Create Solutions for Real-world Challenges.**
 
-
+### Interest
+- MLops
+- Automation, CI/CD
+- Technical Writing, Trend
 
 ## Skills
 
@@ -43,6 +46,7 @@
 
 ## Github
 
+<div align="center">
 <table width="100%">
  <tr>
   <td valign="top" width="50%">
@@ -53,6 +57,7 @@
   </td>
  </tr>
 </table>  
+       </div>
 
 
 
@@ -60,4 +65,3 @@
 
 ![http://mazassumnida.wtf/api/v2/generate_badge?boj=mihea12](http://mazassumnida.wtf/api/v2/generate_badge?boj=mihea12)
 ![http://mazandi.herokuapp.com/api?handle=mihea12&theme=warm](http://mazandi.herokuapp.com/api?handle=mihea12&theme=warm)
-
