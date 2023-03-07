@@ -6,18 +6,9 @@
 
 **contact 💕 :** <a href="mailto:mihea126" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mihye126/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://hye-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
+<a href="https://hye-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a> 
 
-
-> 💡 **Create Solutions for Real-world Challenges.**
-
-### Interest
-- MLops
-- Automation, CI/CD
-- Technical Writing, Trend
-
-## Skills
-
+**skills 🛠️:**
 <div align="center">
 
 <center>
@@ -42,7 +33,18 @@
     </center>
 </div>
 
+<br/>
 
+> 💡 **Create Solutions for Real-world Challenges.**
+  
+<br/>
+
+### Interest
+- MLops
+- Automation, CI/CD
+- Technical Writing, Trend
+
+<br/>
 
 ## Github
 
@@ -58,10 +60,10 @@
  </tr>
 </table>  
        </div>
-
-
+<br/>
 
 ## Beakjoon
-
-![http://mazassumnida.wtf/api/v2/generate_badge?boj=mihea12](http://mazassumnida.wtf/api/v2/generate_badge?boj=mihea12)
-![http://mazandi.herokuapp.com/api?handle=mihea12&theme=warm](http://mazandi.herokuapp.com/api?handle=mihea12&theme=warm)
+<div align="center">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mihea12" width="400">
+        <img src="http://mazandi.herokuapp.com/api?handle=mihea12&theme=warm" width="400">
+       </div>
