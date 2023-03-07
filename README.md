@@ -1,22 +1,21 @@
 
-# Profile
+## Profile
 
 **# Developer**
 
-
-************Email************✉️ : mihea12@gmail.com
 
 **contact 💕 :** <a href="mailto:mihea126" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mihye126/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://hye-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
 
-**********Blog**********💫 : [**hye.dev**](https://hye-dev.vercel.app/)
 
 > 💡 **Create Solutions for Real-world Challenges.**
 
-## Skill
 
-<div style="display: flex; justify-content: center;">
+
+## Skills
+
+<div align="center">
 
 <center>
 <p>
@@ -41,7 +40,6 @@
 </div>
 
 
----
 
 ## Github
 
@@ -56,7 +54,7 @@
  </tr>
 </table>  
 
----
+
 
 ## Beakjoon
 
