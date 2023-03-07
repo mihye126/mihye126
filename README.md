@@ -6,7 +6,9 @@
 
 ************Email************✉️ : mihea12@gmail.com
 
-**SNS 💕 :**  [Linkedin](https://www.notion.so/Linkedin-3fb87fde0c5e4928aeda84d6266ffd27)  https://github.com/mihye126/mihye126 [Twitter](https://www.notion.so/Twitter-1d09b9bbee904a5a99536d275049aa98) 
+**contact 💕 :** <a href="mailto:mihea126" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mihye126/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://hye-dev.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
 
 **********Blog**********💫 : [**hye.dev**](https://hye-dev.vercel.app/)
 
