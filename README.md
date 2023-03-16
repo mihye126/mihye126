@@ -52,10 +52,10 @@
 <table width="100%">
  <tr>
   <td valign="top" width="50%">
-   <img src="https://github-readme-stats.vercel.app/api?username=mihye126&show_icons=true&theme=transparent" width="400">
+   <img src="https://github-readme-stats.vercel.app/api?username=mihye126&show_icons=true&theme=transparent&count_private=true" width="400">
   </td>
   <td valign="top" width="50%">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihye126&hide_border=false&theme=transparent&layout=compact" width="400">
+   <img src="https://github-readme-stats-wine-one.vercel.app/api/top-langs/?username=mihye126&hide_border=false&theme=transparent&langs_count=4&layout=compact" width="400">
   </td>
  </tr>
 </table>  
