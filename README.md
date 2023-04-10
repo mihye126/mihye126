@@ -22,7 +22,6 @@
 <p>
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
              <img src="https://img.shields.io/badge/MySQL-%2300f?style=flat-square&logo=MySQL&logoColor=white"/>
-       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
       </p>
     </center>
         <center>
